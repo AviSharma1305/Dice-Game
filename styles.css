@@ -1,0 +1,36 @@
+body {
+  background-color: #393e46;
+}
+
+h1 {
+  font-family: "Lobster";
+  font-weight: 900;
+  font-size: 5.5rem;
+}
+
+h5 {
+  font-family: "Indie Flower";
+  font-weight: 900;
+  font-size: 1.75rem;
+}
+
+#title {
+  text-align: center;
+  color: #16a596;
+  padding: 5% 15%;
+}
+
+#dice-section {
+  text-align: center;
+  padding: 3% 15%;
+}
+
+.player-no {
+  color: #16a596;
+}
+
+#footer {
+  text-align: center;
+  color: grey;
+  padding: 3% 15%;
+}
